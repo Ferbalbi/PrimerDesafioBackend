@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Material Medias",
+    "description": "La mejor calidad",
+    "price": 150,
+    "img": "Sin imagen",
+    "code": "abc123",
+    "stock": 30
+  },
+  {
+    "id": 2,
+    "title": "medias1",
+    "description": "Segunda Calidad",
+    "price": 2000,
+    "thumbnail": "sin imagen",
+    "code": "med2",
+    "stock": 10
+  }
+]
